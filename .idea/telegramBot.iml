@@ -7,5 +7,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="algorithms" />
     <orderEntry type="module" module-name="awesomeProject" />
+    <orderEntry type="module" module-name="Read-Adviser-Bot" />
   </component>
 </module>

@@ -50,5 +50,3 @@ func mustToken() string {
 
 	return *token
 }
-
-//./telegramBot -tg-bot-token '5791173406:AAHxmWZzAnNXCsTfThp9LzzZ4VOch-oZIQQ'
